@@ -4,4 +4,4 @@ When using, change the "$email_from =''" section in the Contact-Form Handler sec
 
 Also, insert your desired email within $to = ""; in order to receive the request.
 
-** Please note that you will not receive the email unless the program is live and on an existing website **
+** Please note that you will not receive the email unless the file is live and on an existing website **
